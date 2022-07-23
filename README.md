@@ -18,7 +18,7 @@ As a person who likes to change his wallpaper very often, I was looking for an a
 simple way and as fast as possible. In Linux there are many applications that can do that, 
 but in Windows most of them are very slow and bloated.
 
-## Instalation
+## Installation
 ### System Dependencies 
 - [Go](https://go.dev/doc/install)
 
